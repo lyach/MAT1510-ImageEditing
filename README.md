@@ -5,7 +5,7 @@ This repository contains my evaluations and modifications of DragDiffusion, as m
 The objective of this work is to enhance the semantic alignment capabilities of diffusion models used in point-based image editing. 
 
 ## Results
-![Evaluation Results](assets/results.png "Results for Point-Based Image Editing")
+![Evaluation Results](asset/results.png "Results for Point-Based Image Editing")
 
 ## Structure
 - `Evaluations.ipynb`: My Jupyter Notebook containing evaluations and results.
