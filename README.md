@@ -12,7 +12,7 @@ The objective of this work is to enhance the semantic alignment capabilities of 
 - `DragDiff_edited/`: A modified version of the original DragDiffusion repository, including my edits for experimentation.
 
 ## Credits
-The `DragDiff_edited` folder is based on the open-source **DragDiffusion repository** (https://github.com/original-dragdiffusion-repo). My edits and experiments build upon their work.
+The `DragDiff_edited` folder is based on the open-source **DragDiffusion repository** (https://github.com/Yujun-Shi/DragDiffusion/tree/main). My edits and experiments build upon their work.
 
 ## License
 Please refer to the original DragDiffusion repository for licensing information related to their code.
